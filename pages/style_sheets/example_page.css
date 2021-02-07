@@ -1,0 +1,13 @@
+/* the example pages style sheet*/
+/*
+ * colour scheme is as follows
+ * #011526 -- 1, 21, 38, black blue, menu and darker colour
+ * #3C92A6 -- 60, 146, 166, cobalt blue, background colour for main body
+ * #89CAD9 -- 137, 202, 217, light blue, highlight colour, use rarely
+ * #D97A43 -- 217, 122, 67, light orange, contrast
+ * #8C4227 -- 140, 66, 39, dark orange almost brown, dark contrast
+ * */
+
+body {
+	background-color: #3C92A6;
+}
