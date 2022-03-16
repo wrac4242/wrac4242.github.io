@@ -6,19 +6,19 @@ import Home from './Home';
 import NavBar from './NavBar';
 
 class App extends React.Component {
-  render() {
-      return (
-        <div className="Index">
-          <div>
-            <NavBar/>
-          </div>
-            <Routes>
-            <Route path="/" element={<Home/>}/>
-            <Route path="/about" element={<About/>} />
-          </Routes>
-          </div>
-            );
-  }
+    render() {
+        return (
+            <div className="Index">
+                <div>
+                    <NavBar />
+                </div>
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/about" element={<About />} />
+                </Routes>
+            </div>
+        );
+    }
 }
 
 export default App;
