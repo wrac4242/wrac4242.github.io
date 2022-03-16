@@ -3,22 +3,21 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: #282c34;
-  color: white;
-  margin-block-start: 0;
+  vertical-align: top;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  min-height: 100vh;
+.App {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.App-header {
+  min-height: 10vh;
   font-size: calc(10px + 2vmin);
 }
 
