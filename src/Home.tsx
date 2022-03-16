@@ -4,11 +4,11 @@ import React from 'react';
 class Home extends React.Component {
 	render() {
 		return (
-			<div className="App">
+			<div>
 				<header className="App-header">
-					<p>
+					<h1>
 						Who am I?
-					</p>
+					</h1>
 				</header>
 				<p>
 					test

@@ -1,9 +1,10 @@
 import './App.css';
 import React from 'react';
 import { Route, Routes } from "react-router-dom";
-import About from './About';
+import Links from './Links';
 import Home from './Home';
 import NavBar from './NavBar';
+import Contact from './Contact';
 
 class App extends React.Component {
     render() {
@@ -12,10 +13,13 @@ class App extends React.Component {
                 <div>
                     <NavBar />
                 </div>
-                <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/about" element={<About />} />
-                </Routes>
+                <div className="App">
+                    <Routes>
+                        <Route path="/" element={<Home />} />
+                        <Route path="/links" element={<Links />} />
+                        <Route path="/contact" element={<Contact />} />
+                    </Routes>
+                </div>
             </div>
         );
     }
