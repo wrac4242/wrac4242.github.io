@@ -1,5 +1,8 @@
 # Wrac4242' website
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/wrac4242/wrac4242.github.io.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wrac4242/wrac4242.github.io/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/wrac4242/wrac4242.github.io.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wrac4242/wrac4242.github.io/context:javascript)
+
 ## contributing
 
 Please create an issue or a pr, and we will try to fix it
