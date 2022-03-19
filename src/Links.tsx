@@ -21,6 +21,9 @@ class Links extends React.Component {
 						<p>
 							<a href="https://wrac4242.itch.io/">My itch.io page can be found here</a>
 						</p>
+						<p>
+							<a href="https://twitter.com/WRAC4242">My twitter where I usually post art</a>
+						</p>
 					</div>
 					<h2>Some of my main projects</h2>
 					<div>
