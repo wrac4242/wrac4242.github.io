@@ -1,11 +1,12 @@
 import './App.css';
 import React from 'react';
+import { Link } from "react-router-dom";
 
 class Home extends React.Component {
 	render() {
 		return (
 			<div>
-				<div>
+				<div className="Boxed">
 					<p>
 						<h1>
 							Who am I?
@@ -22,16 +23,14 @@ class Home extends React.Component {
 					</p>
 				</div>
 
-				<div className="Boxed">
+				<div>
 					<p>
 						<h2>
 							What do I do?
 						</h2>
 						I am currently still in education, but doing programming projects in my spare time
 						<br></br>
-						<h3>
-							What programming languages do I know?
-						</h3>
+						See <Link to="/programming" className="Link" >more information here on my programming</Link>
 
 					</p>
 				</div>
