@@ -10,7 +10,11 @@ class Contact extends React.Component {
 				<main>
 					<h2>Contact methods</h2>
 					<div>
-						<p>todo</p>
+						<p>
+							Contact me via email:
+							<br></br>
+							<a href="mailto:wrac4242@gmail.com">For general contact</a>
+						</p>
 					</div>
 				</main>
 			</div>

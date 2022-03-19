@@ -21,11 +21,11 @@
   font-size: calc(10px + 2vmin);
 }
 
-.Link {
+a {
   color: #61dafb;
 }
 
-.Link:hover {
+a:hover {
   color: #85d6ec;
 }
 
