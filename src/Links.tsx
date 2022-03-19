@@ -12,9 +12,17 @@ class Links extends React.Component {
 				<main>
 					<h2>Some of my main links</h2>
 					<div>
-						<p>todo</p>
+						<p>
+							<a href="https://github.com/wrac4242">My github can be found here</a>
+						</p>
+						<p>
+							<a href="https://en.pronouns.page/@wrac4242">My pronoun page can be found here</a>
+						</p>
+						<p>
+							<a href="https://wrac4242.itch.io/">My itch.io page can be found here</a>
+						</p>
 					</div>
-					<h2>Some of my projects</h2>
+					<h2>Some of my main projects</h2>
 					<div>
 						<p>todo</p>
 					</div>
