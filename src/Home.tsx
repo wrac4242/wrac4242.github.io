@@ -6,11 +6,11 @@ class Home extends React.Component {
 	render() {
 		return (
 			<div>
+				<h1>
+					Who am I?
+				</h1>
 				<div className="Boxed">
 					<p>
-						<h1>
-							Who am I?
-						</h1>
 						Hi I am Wren (preferred name) using she/her pronouns.
 						<br></br>
 						I write code when I don't get too distracted. Primarily small coding projects, 
