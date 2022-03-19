@@ -5,6 +5,7 @@ import Links from './Links';
 import Home from './Home';
 import NavBar from './NavBar';
 import Contact from './Contact';
+import Programming from './Programming';
 
 class App extends React.Component {
     render() {
@@ -18,6 +19,7 @@ class App extends React.Component {
                         <Route path="/" element={<Home />} />
                         <Route path="/links" element={<Links />} />
                         <Route path="/contact" element={<Contact />} />
+                        <Route path="/programming" element={<Programming />} />
                     </Routes>
                 </div>
             </div>

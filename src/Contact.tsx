@@ -8,9 +8,9 @@ class Contact extends React.Component {
 					<h1>Contact Me</h1>
 				</div>
 				<main>
-					<h2>Contact methods</h2>
-					<div>
+					<div className="Boxed">
 						<p>
+							<h2>Contact methods</h2>
 							Contact me via email:
 							<br></br>
 							<a href="mailto:wrac4242@gmail.com">For general contact</a>
