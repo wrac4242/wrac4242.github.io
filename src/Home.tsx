@@ -13,6 +13,8 @@ class Home extends React.Component {
 					<p>
 						Hi I am Wren (preferred name) using she/her pronouns.
 						<br></br>
+						You can find my pronouns page <a href="https://en.pronouns.page/@wrac4242">here</a>
+						<br></br>
 						I write code when I don't get too distracted. Primarily small coding projects, 
 						<br></br>
 						but I am willing to learn front end and back end development.
