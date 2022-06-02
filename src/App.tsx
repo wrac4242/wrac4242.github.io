@@ -6,6 +6,7 @@ import Home from './Home';
 import NavBar from './NavBar';
 import Contact from './Contact';
 import Programming from './Programming';
+import Pontifex from './Pontifex';
 
 class App extends React.Component {
     render() {
@@ -20,6 +21,7 @@ class App extends React.Component {
                         <Route path="/links" element={<Links />} />
                         <Route path="/contact" element={<Contact />} />
                         <Route path="/programming" element={<Programming />} />
+                        <Route path="/pontifex" element={<Pontifex />} />
                     </Routes>
                 </div>
             </div>
