@@ -16,6 +16,8 @@ class NavBar extends React.Component {
                         <Link to="/links" className="Link" >Links</Link>
                         <br></br>
                         <Link to="/programming" className="Link" >Programming</Link>
+                        <br></br>
+                        <Link to="/pontifex" className="Link" >Pontifex</Link>
 
                     </ul>
                 </nav>

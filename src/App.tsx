@@ -6,7 +6,9 @@ import Home from './Home';
 import NavBar from './NavBar';
 import Contact from './Contact';
 import Programming from './Programming';
-import Pontifex from './Pontifex';
+import Pontifex from './Pontifex/Pontifex';
+import PontifexTos from './Pontifex/tos';
+import PontifexPrivacy from './Pontifex/privacy';
 
 class App extends React.Component {
     render() {
@@ -22,6 +24,8 @@ class App extends React.Component {
                         <Route path="/contact" element={<Contact />} />
                         <Route path="/programming" element={<Programming />} />
                         <Route path="/pontifex" element={<Pontifex />} />
+                        <Route path="/pontifex/tos" element={<PontifexTos />} />
+                        <Route path="/pontifex/privacy" element={<PontifexPrivacy />} />
                     </Routes>
                 </div>
             </div>
