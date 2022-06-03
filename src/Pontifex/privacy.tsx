@@ -15,10 +15,13 @@ class PontifexPrivacy extends React.Component {
 						this information is viewable with the /serverdump command as we need this data to properly log and send confession messages<br></br>
 						No one besides the developers of the bot have access to the data and access will not be provided to people who are unauthorized to see it<br></br>
 						<br></br>
-						If you have any concerns or want to remove your information from the bot, please join the support server linked <a href="https://discord.gg/eNRsbGv8y2">here</a>, and DM a support member<br></br>
+						If you have any concerns please join the support server linked <a href="https://discord.gg/eNRsbGv8y2">here</a>, and DM a support member<br></br>
 						Support can also be offered via email at <a href="mailto:pontifex@wrac4242.com">pontifex@wrac4242.com</a>, however response times may vary<br></br>
 						Confession data (confession itself and sender) is logged into the relevant server and it is up to the server how that logged info is used, <br></br>
 						the bot does not store this confession or its information and so it cannot be used by the developer or anyone with access
+						<br></br><br></br>
+						If you wish to request or delete data stored by the bot, please join the support server linked <a href="https://discord.gg/eNRsbGv8y2">here</a>, and DM a support member<br></br>
+						or email at <a href="mailto:pontifex@wrac4242.com">pontifex@wrac4242.com</a>
 						</p>
 					</div>
 				</main>
