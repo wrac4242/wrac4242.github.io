@@ -53,7 +53,7 @@ class Programming extends React.Component {
 								<br></br>
 								<a href="https://github.com/wrac4242/password_breach_checker">A password breach checker</a>
 								<br></br>
-								<a href="https://github.com/wrac4242/wrac4242.github.io">My personal website source</a>
+								<a href="https://github.com/wrac4242/wrac4242.github.io">This websites source</a>
 							</p>
 						</div>
 					</div>

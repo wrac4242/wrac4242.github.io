@@ -45,7 +45,7 @@ class Home extends React.Component {
 						Currently I run a custom built computer:
 						<br></br>
 						<ul>
-							<li>Operating system: Fedora Linux</li>
+							<li>Operating system: Archcraft</li>
 							<li>CPU: AMD Ryzen 3 1300X</li>
 							<li>GPU: NVIDIA GeForce GTX 1050 Ti</li>
 							<li>RAM: 16GB</li>
