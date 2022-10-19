@@ -15,8 +15,9 @@ class PontifexTos extends React.Component {
 							Access can be revoked at any time, without warning. Primarily when actions are judged to be misuse or abuse of the bot<br></br>
 							<br></br><br></br>
 
-							If you wish to contact the owner of the bot for any complaints or issues, please either join the support server <a href="https://discord.gg/eNRsbGv8y2">here</a><br></br>
-							<br></br> or send an email to <a href="mailto:pontifex@wrac4242.com">pontifex@wrac4242.com</a><br></br>
+							If you need to contact the bot support team or owner in any way <br></br> 
+							Either contact us via email at <a href="mailto:pontifex@wrac4242.com">pontifex@wrac4242.com</a> <br></br>
+							or join the support server <a href="https://discord.gg/eNRsbGv8y2">here</a> and ask to contact a bot support member
 						</p>
 					</div>
 				</main>
