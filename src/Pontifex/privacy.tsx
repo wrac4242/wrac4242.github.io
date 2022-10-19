@@ -29,7 +29,8 @@ class PontifexPrivacy extends React.Component {
 					<h3>Data Request</h3>
 					<p>
 						If you wish to request a copy of or delete data stored by the bot or need to contact the bot admins in any way <br></br> 
-						please join the support server <a href="https://discord.gg/eNRsbGv8y2">here</a> and ask to contact a bot support member or via email at <a href="mailto:pontifex@wrac4242.com">pontifex@wrac4242.com</a>.
+						Either contact us via email at <a href="mailto:pontifex@wrac4242.com">pontifex@wrac4242.com</a> <br></br>
+						or join the support server <a href="https://discord.gg/eNRsbGv8y2">here</a> and ask to contact a bot support member
 					</p>
 					</div>
 				</main>
