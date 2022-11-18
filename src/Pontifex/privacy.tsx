@@ -14,7 +14,7 @@ class PontifexPrivacy extends React.Component {
 					<h3>What the bot can access live:</h3>
 					<p>
 						In the bots database we store the Logging Channel ID, Confession Channel (The channel in which confessions are sent to) ID, and Guild ID <br></br>
-						This information is only accessible to admins of the bot and the owner of the guild (available through the /server dump command)<br></br>
+						This information is only accessible to admins of the bot and the admins (including the owner) of the guild (available through the /server dump command)<br></br>
 						This data may be retained after the bot has been removed from a guild.
 					</p>
 					<br></br>
